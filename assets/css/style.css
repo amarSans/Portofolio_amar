@@ -333,7 +333,13 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 50%;
+  display: block;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: 4px solid #5fecff;
+  box-shadow: 0 0 15px rgba(0, 188, 212, 0.3);
 }
 
 .info-content .name {
@@ -447,7 +453,9 @@ main {
 .social-item .social-link:hover { color: var(--light-gray); }
 
 
-
+.testimonials, .clients {
+  display: none;
+}
 
 
 /*-----------------------------------*\

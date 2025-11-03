@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Muammar
+Muammar
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+amuammar698@gmail.com
 
 Phone
-+1 (213) 352-2795
+085656372088
 
 Birthday
-June 23, 1982
+Sept 26, 2002
 
 Location
-Sacramento, California, USA
+Kec. Manggala, Kota Makassar, Sulawesi Selatan, Indonesia
 
 # navbar
 
